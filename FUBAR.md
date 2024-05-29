@@ -4,3 +4,8 @@ Esto es lo que hicieron Bob y Carol en la computadora de Bob cuando trabajaban e
 
 Esta es la línea de la primera funcionalidad.
 
+***Sino seremos instructores***
+
+## 4ra Característica:
+
+***Por ultimo abririmos nuestra ecuela de Tecnologia***
