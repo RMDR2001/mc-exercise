@@ -11,3 +11,7 @@ Esto es lo que hicieron Alice, Ted y Andres en la computadora de bob cuando trab
 ## 3ra Característica:
 
 ***Sino seremos instructores***
+
+## 4ra Característica:
+
+***Por ultimo abririmos nuestra ecuela de Tecnologia***
