@@ -5,3 +5,7 @@ Esto es lo que hicieron Bob y Carol en la computadora de Bob cuando trabajaban e
 ## 2da Característica:
 
 ***Sino nos mandarán de nuevo al Code 101***
+
+## 3ra Característica 
+
+*** Y no terminaremos para febrero del 2025 ***
