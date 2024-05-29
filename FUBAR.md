@@ -1,10 +1,8 @@
 
-<<<<<<< HEAD
 Esta es la línea de la pimera funcionalidad.
 
 Si se muere una pulga, ¿a dónde va? Al pulgatorio.
 Hubo conflictos con la rama principal, pero se solucionaron cp.
-=======
 Esto es lo que hicieron Bob y Carol en la computadora de Bob cuando trabajaban en la primera característica
 
 ## 1ra Característica:
@@ -26,4 +24,3 @@ Esto fue lo que hicieron Bob y Carol de verdad en la laptop de Bob cuando trabaj
 ## 4ra Característica:
 
 ***Tambien podria ser una opcion asociarnos***
->>>>>>> 47b268f344e4376c6fbb9adc152ef93307d8be91
