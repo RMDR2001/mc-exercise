@@ -4,10 +4,8 @@ Esto es lo que hicieron Alice, Ted y Andres en la computadora de bob cuando trab
 
 ***Enter Tech me dara la oportunidad de trabajar en GUVERY***
 
-## 2da Característica:
 
-***Sino nos mandarán de nuevo al Code 101***
+Esto fue lo que hicieron Bob y Carol de verdad en la laptop de Bob cuando trabajanaban en la primera caracteristica.
 
-## 3ra Característica:
+***Al parecer hay un hacker que se hace pasar por los Bob y Carol reales.***
 
-***Sino seremos instructores***
