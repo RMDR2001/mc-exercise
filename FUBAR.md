@@ -9,7 +9,6 @@ Esto es lo que hicieron Bob y Carol en la computadora de Bob cuando trabajaban e
 
 ***Enter Tech me dara la oportunidad de trabajar en GUVERY***
 
-Bob Estuvo Aquí.
 
 Esto fue lo que hicieron Bob y Carol de verdad en la laptop de Bob cuando trabajanaban en la primera caracteristica.
 
@@ -24,3 +23,9 @@ Esto fue lo que hicieron Bob y Carol de verdad en la laptop de Bob cuando trabaj
 ## 4ra Característica:
 
 ***Tambien podria ser una opcion asociarnos***
+
+## Caracterísca Nueva
+
+    - Mi PC va a explotar! De tanto merged!!!
+=======
+Bob Estuvo Aquí.
