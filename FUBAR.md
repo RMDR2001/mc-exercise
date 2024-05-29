@@ -1,4 +1,5 @@
-Esto es lo que hicieron Alice, Ted y Andres en la computadora de bob cuando trabajaban en la primera característica
+
+Esto es lo que hicieron Bob y Carol en la computadora de Bob cuando trabajaban en la primera característica
 
 ## 1ra Característica:
 
